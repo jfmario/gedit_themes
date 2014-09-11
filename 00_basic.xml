@@ -4,8 +4,6 @@
 	<author>John Marion</author>
 	<_description>Basic</_description>
 
-<!-- Scribe Theme Generator 1.3 -->
-<!-- sb 008, 080, 800 -->
 <!-- COLORS -->
 	<color name="text_bg" value="#000"/>
 	<color name="text_fg" value="#fff"/>
